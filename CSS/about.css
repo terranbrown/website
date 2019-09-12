@@ -1,0 +1,47 @@
+/* Before the end of class make sure to change the fonts, or have possible alternate fonts for all three pages */
+
+.story{
+    height:300px;
+    Width:98%;
+    border:4px solid brown;
+    text-align: center;
+    background-color: tomato;
+    padding: 10px;
+}
+p{
+    line-height: 200%;
+}
+
+h2{
+    text-shadow: 2px 2px rgb(197, 93, 93);
+}
+/* .h1{
+    font-family:;
+    text-align:center;
+    letter-spacing:10px;
+    font-size:200px;
+    text-shadow: 5px 5px white;
+    margin:0px}
+    
+    .ocean{
+        background-image:url(...);
+        height:;
+        width:;
+        image-rendering:optimizeQuality;}*/
+
+.audio{
+    height:40px;
+    width:270px;
+    position: relative;
+    top: 50px;
+    left:700px;
+    border:4px solid brown;
+}
+.video{
+    height:421px;
+    width:750px;
+    position: relative;
+    top: 100px;
+    left:450px;
+    border:4px solid brown;
+}

@@ -1,0 +1,20 @@
+.map{
+    height: 850px;
+    width: 48%;
+    display: inline-block;
+    /* temp background color */
+    /* background-color:grey; */
+    position: absolute;
+    padding: 20px;
+}
+.contact-form{
+    height: 800px;
+    width: 48%;
+    display: inline-block;
+    /* background-color: red; */
+    padding: 10px;
+}
+main{
+    height: 900px;
+    width: 100%;
+}
